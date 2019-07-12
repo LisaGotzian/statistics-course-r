@@ -16,4 +16,4 @@ My philosophy is to search for the “common ground”, the starting point in ea
 (Almost) everything I wrote on the blackboard is also in the slides and marked as such.
 
 ## Acknowledgements
-`Mathematics___Statistics_Problem_Set_1.pdf` has been written by [Prabesh Dhakal](https://github.com/prabeshdhakal).
+`Mathematics___Statistics_Problem_Set_1.pdf` has been written by the awesome [Prabesh Dhakal](https://github.com/prabeshdhakal).
