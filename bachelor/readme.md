@@ -1,4 +1,4 @@
-## Statistics basics for bachelors
+# Statistics basics for bachelors
 
 This is a full set of slides for a **statistics course on an undergrad level**. It is accompanied with basic R exercises. For a more comprehensive introduction to R itself as a programming language, please refer to my other classes!  
 
