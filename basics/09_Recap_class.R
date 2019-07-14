@@ -4,6 +4,11 @@
 # Those include: correlations, chi-squared tests, t-tests, wilcoxon tests,
 # shapiro tests, anovas, linear models...
 #
+# Your task: Every student received a red and a green card which you are supposed to raise
+# throughout the script. Green = significant, Red = not significant.
+# I emphasize this distinction as in cases such as for the Shapiro-Wilk, the red card is
+# actually what we would like as an outcome.
+#
 # The basic analysis is always:
 # 1) visual inspection
 # 2) independent histograms of the data & shapiro
